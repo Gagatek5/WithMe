@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  LoginScreenVC.swift
 //  WithMe
 //
 //  Created by Tom on 03.11.2017.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class LoginScreenVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
